@@ -1,2 +1,7 @@
 0.0.0.0	minecraft.net
 0.0.0.0 *.minecraft.net
+0.0.0.0 minecraftservices.com
+0.0.0.0 api.minecraftservices.com
+0.0.0.0 pc.realms.minecraft.net
+0.0.0.0 *.jailmc.com
+0.0.0.0 _minecraft._tcp.unknowns.my.pebble.host
