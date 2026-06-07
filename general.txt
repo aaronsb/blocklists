@@ -1,1 +1,6 @@
 0.0.0.0 truthsocial.com
+0.0.0.0 proxyjs.brdtnet.com
+0.0.0.0 proxyjs.luminatinet.com
+0.0.0.0 proxyjs.bright-sdk.com
+0.0.0.0 clientsdk.bright-sdk.com
+0.0.0.0 clientsdk.brdtnet.com
